@@ -83,6 +83,6 @@ header {
     outline: none;
 }
 
-.square-container input{
+.square-container input, .circle-container input{
     margin: 30px 0px;
 }
