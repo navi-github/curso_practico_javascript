@@ -9,6 +9,8 @@ Proyecto del Curso Práctico de JavaScript en PLATZI
 - Segundo paso: implementar las fórmulas en JavaScript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JavaScript con HTML
+- Quinto paso: Agregar estilos con CSS
+- Sexto paso: Subir el taller a GitHub Pages
 
 ##  Taller #2: Porcentajes y Descuentos
 
@@ -16,6 +18,8 @@ Proyecto del Curso Práctico de JavaScript en PLATZI
 - Segundo paso: implementar las fórmulas en JavaScript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JavaScript con HTML
+- Quinto paso: Agregar estilos con CSS
+- Sexto paso: Subir el taller a GitHub Pages
 
 ##  Taller #3: Promedio, mediana y moda
 
@@ -23,6 +27,8 @@ Proyecto del Curso Práctico de JavaScript en PLATZI
 - Segundo paso: implementar las fórmulas en JavaScript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JavaScript con HTML
+- Quinto paso: Agregar estilos con CSS
+- Sexto paso: Subir el taller a GitHub Pages
 
 ## Taller #4: Análisis de Salarios
 
@@ -30,3 +36,5 @@ Proyecto del Curso Práctico de JavaScript en PLATZI
 - Segundo paso: implementar las fórmulas en JavaScript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JavaScript con HTML
+- Quinto paso: Agregar estilos con CSS
+- Sexto paso: Subir el taller a GitHub Pages

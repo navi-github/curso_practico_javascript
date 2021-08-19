@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    border-top: 60px solid black;
+    border-bottom: 60px solid black;
+    height: 100vh;
+}
+
+body {
+    font-family: "Oswald", sans-serif;
+    background-color: yellow;
+    font-size: 1.6rem;
+    min-width: 300px;
+    width: 75%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: calc(100vh - 80px);
+}
+
+header h1 {
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+header p {
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.img-container {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+nav img {
+    width: 75px;
+    position: absolute;
+    bottom: 80px;
+}
+
+.main-container {
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+    grid-template-rows: 1fr 1fr 1fr;
+    min-width: 300px;
+    width: 90%;
+    max-width: 600px;
+}
+
+.card {
+    height: 50px;
+    background-color: #444941;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.card a {
+    text-decoration: none;
+    flex-wrap: wrap;
+}
+
+.card a:visited {
+    color: white;
+}
+
+.card:hover {
+    border: 2px solid #444941;
+    background-color: white;
+    cursor: pointer;
+}
+
+.card:hover a {
+    color: black;
+}
