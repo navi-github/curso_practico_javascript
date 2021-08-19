@@ -73,6 +73,7 @@ nav img {
 .card a {
     text-decoration: none;
     flex-wrap: wrap;
+    color: white;
 }
 
 .card a:visited {
