@@ -63,16 +63,18 @@ nav img {
     height: 50px;
     background-color: #444941;
     border-radius: 5px;
-    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
 }
 
 .card a {
     text-decoration: none;
     flex-wrap: wrap;
+    color: white;
+}
+
+.card a:link {
     color: white;
 }
 
