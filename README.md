@@ -38,3 +38,7 @@ Proyecto del Curso Práctico de JavaScript en PLATZI
 - Cuarto paso: integrar JavaScript con HTML
 - Quinto paso: Agregar estilos con CSS
 - Sexto paso: Subir el taller a GitHub Pages
+
+##Página en GitHub Pages
+- https://navi-github.github.io/curso_practico_javascript/
+- 
